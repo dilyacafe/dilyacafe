@@ -1270,7 +1270,7 @@ if(isStokKosong(produk)) produkDiv.classList.add('stok-habis');
         }
         const messageToSend = shareResult.message;
         const encodedMessage = encodeURIComponent(messageToSend);
-        const whatsappURL = `https://wa.me/6281235368643?text=${encodedMessage}`;
+        const whatsappURL = `https://wa.me/6285655171736?text=${encodedMessage}`;
         window.open(whatsappURL, '_blank');
         keranjang = [];
         saveKeranjangToStorage();
