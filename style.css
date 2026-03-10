@@ -679,7 +679,7 @@ footer {
 .feedback-message.danger-color { color: var(--danger-color);}
 @media (max-width: 1024px) {
     .main-layout { grid-template-columns: 3fr 2fr; gap: 1em;}
-    #produk-list { grid-template-columns: repeat(3, 1fr);}
+    #produk-list { grid-template-columns: repeat(3, 2fr);}
 }
 @media (min-width: 600px) and (max-width: 1024px) and (orientation: portrait) {
     .main-layout {
