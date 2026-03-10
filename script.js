@@ -315,7 +315,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 5, nama: "Tteokbokki", harga: 10000, gambar: "toppoki1.webp", barcode: "toppoki10" , stok: 1, kategori:"makanan"},
         { id: 3, nama: "Citung", harga: 2500, gambar: "citung.webp", barcode: "citung", stok: 1, kategori:"makanan"},
          { id: 16, nama: "Cilok", harga: 1000, gambar: "cilok.webp", barcode: "cilok", stok: 1, kategori:"makanan"},
-         { id: 6, nama: "spaghetti tanpa toping", harga: 6000, gambar: "spaghetti.webp", barcode: "spaghetti", stok: 0 , kategori:"makanan"},
+         { id: 6, nama: "spaghetti tanpa toping", harga: 6000, gambar: "spaghetti.webp", barcode: "spaghetti", stok: 1, kategori:"makanan"},
         { id: 7, nama: "spaghetti dengan toping", harga: 10000, gambar: "spaghetti1.webp", barcode: "spaghetti1", stok: 0, kategori:"makanan"},
         { id: 8, nama: "Balungan", harga: 6000, gambar: "balungan.webp", barcode: "balungan", stok: 0 , kategori:"makanan"},
         { id: 14, nama: "spaghetti balungan", harga: 12000, gambar: "sbalungan.webp", barcode: "spaghetti2" , stok: 0 , kategori:"makanan"},
