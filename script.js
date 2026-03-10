@@ -33,7 +33,7 @@ function tambahQtyUniversal(produk){
 }
 /* Full script.js with fixes:
    - added guard checks before attaching listeners to optional login buttons
-   - added handler for new btn-kasir-icon (user icon beside KATALOG HARINFOOD)
+   - added handler for new btn-kasir-icon (user icon beside KATALOG DILYA FOOD & DRINK)
    - preserved all original behavior and functions
    Replace the repository file with this content (keep filename script.js and update query string in index.html if needed).
 */
