@@ -1056,7 +1056,7 @@ body[data-role="pelanggan"] #popup-keranjang-print {
 }
 #produk-list {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* atau 3, jika di desktop */
+    grid-template-columns: repeat(4, 1fr); /* atau 3, jika di desktop */
     gap: 5px !important;         /* Jarak antar produk 5px atas, bawah, kanan, kiri */
     padding: 5px !important;     /* Jarak ke tepi kiri-kanan juga 5px */
     box-sizing: border-box;
