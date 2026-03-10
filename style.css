@@ -1034,7 +1034,7 @@ body[data-role="pelanggan"] #popup-keranjang-print {
     flex-grow: 1;
 }
 
-/* 2 kolom untuk layar kecil (HP) */
+/* 3 kolom untuk layar kecil (HP) */
 @media (max-width: 599px) {
     #produk-list {
         grid-template-columns: repeat(3, 2fr);
