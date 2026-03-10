@@ -713,7 +713,7 @@ footer {
         align-items: flex-start;
     }
     #produk-list {
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(4, 3fr);
         gap: 1em;
     }
     #menu-produk-section, #keranjang-form-section {
