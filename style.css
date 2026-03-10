@@ -404,7 +404,7 @@ footer {
 .minus-btn { background: var(--button-clear-bg); }
 .minus-btn:hover { background: linear-gradient(45deg, #c0392b, #e74c3c); }
 .plus-btn { background: var(--button-default-bg); }
-.plus-btn:hover { background: linear-gradient(45deg, #00b0ff, #14963f); }
+.plus-btn:hover { background: linear-gradient(45deg, #0f8a2e, #14963f); }
 .qty-value {
     width: 2.3em;
     min-width: 1.8em;
