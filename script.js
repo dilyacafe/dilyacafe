@@ -309,12 +309,12 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     createKembalianModal();
     const produkData = [
-        { id: 1, nama: "Mie 1", harga: 3000, gambar: "risol.webp", barcode: "mie 2", stok: 1, kategori:"makanan"},
-        { id: 2, nama: "Mie 2", harga: 2500, gambar: "cibay.webp", barcode: "mie 2" , stok: 1, kategori:"makanan"},
-        { id: 4, nama: "Mie 3", harga: 5000, gambar: "toppoki.webp", barcode: "mie 3", stok: 1, kategori:"makanan"},
-        { id: 5, nama: "Mie 4", harga: 10000, gambar: "toppoki1.webp", barcode: "mie 4" , stok: 1, kategori:"makanan"},
-        { id: 3, nama: "Mie 5", harga: 2500, gambar: "citung.webp", barcode: "mie 5", stok: 1, kategori:"makanan"},
-        { id: 16, nama: "Mie 6", harga: 1000, gambar: "cilok.webp", barcode: "mie 6", stok: 1, kategori:"makanan"},
+        { id: 1, nama: "Mie 1", harga: 3000, gambar: "mie.webp", barcode: "mie 2", stok: 1, kategori:"makanan"},
+        { id: 2, nama: "Mie 2", harga: 2500, gambar: "mie.webp", barcode: "mie 2" , stok: 1, kategori:"makanan"},
+        { id: 4, nama: "Mie 3", harga: 5000, gambar: "mie.webp", barcode: "mie 3", stok: 1, kategori:"makanan"},
+        { id: 5, nama: "Mie 4", harga: 10000, gambar: "mie.webp", barcode: "mie 4" , stok: 1, kategori:"makanan"},
+        { id: 3, nama: "Mie 5", harga: 2500, gambar: "mie.webp", barcode: "mie 5", stok: 1, kategori:"makanan"},
+        { id: 16, nama: "Mie 6", harga: 1000, gambar: "mie.webp", barcode: "mie 6", stok: 1, kategori:"makanan"},
         { id: 6, nama: "Seblak 1", harga: 6000, gambar: "spaghetti.webp", barcode: "seblak 1", stok: 1, kategori:"makanan"},
         { id: 7, nama: "Seblak 2", harga: 10000, gambar: "spaghetti1.webp", barcode: "seblak 2", stok: 1, kategori:"makanan"},
         { id: 8, nama: "Seblak 3", harga: 6000, gambar: "balungan.webp", barcode: "seblak 3", stok: 1, kategori:"makanan"},
