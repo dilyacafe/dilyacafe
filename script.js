@@ -447,7 +447,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 appContainer.style.display = 'block';
                 kasirFabs.style.display = 'none';
                 pesanInfoLabel.style.display = 'block';
-                pesanInfoLabel.textContent = "Terima kasih pelanggan setia, sehat selalu ya 🙏 tanpa anda tidak ada cerita di kedai kita. Selalu kunjungi kami ya";
+                pesanInfoLabel.textContent = "Terima kasih pelanggan setia, sehat selalu ya 🙏 tanpa anda tidak ada cerita di Dilya. Selalu kunjungi kami ya";
                 initializeApp();
 applyRoleUIFix();
                 loadTawktoWidget();
