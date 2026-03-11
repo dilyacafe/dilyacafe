@@ -337,7 +337,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 18, nama: "Es Teler", harga: 10000, gambar: "es teler.webp", barcode: "teler" , kategori:"minuman"},
         { id: 19, nama: "Es Podeng", harga: 10000, gambar: "es podeng.webp", barcode: "podeng" , kategori:"minuman"},
         { id: 20, nama: "Sop Buah", harga: 10000, gambar: "sop buah.webp", barcode: "sop buah" , kategori:"minuman"},
-        { id: 21, nama: "Kopi hitam", harga: 3000, gambar: "kopi hitam.webp", barcode: "pop ice" , kategori:"minuman"},
+        { id: 21, nama: "Kopi hitam", harga: 3000, gambar: "kopi.webp", barcode: "pop ice" , kategori:"minuman"},
         { id: 22, nama: "White cofee", harga: 3000, gambar: "white cofee.webp", barcode: "pop ice" , kategori:"seblak"},
         { id: 23, nama: "Pop Ice", harga: 3000, gambar: "estawar.webp", barcode: "pop ice" , kategori:"mie"}
     ];
