@@ -346,9 +346,9 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 34, nama: "Mix 2", harga: 5000, gambar: "gordil.webp", barcode: "gordil 2" , stok: 1, kategori:"snack"},
         { id: 35, nama: "Sosis jumbo goreng", harga: 4000, gambar: "gordil.webp", barcode: "gordil 2" , stok: 1, kategori:"snack"},
         { id: 36, nama: "Siomay sayur goreng", harga: 5000, gambar: "gordil.webp", barcode: "gordil 2" , stok: 1, kategori:"snack"},
-        { id: 37, nama: "Sosis jumbo goreng", harga: 4000, gambar: "sosis jumbo.webp", barcode: "sosis jumbo" , kategori:"snack"},
+        { id: 37, nama: "Sosis jumbo bakar", harga: 4000, gambar: "sosis jumbo bakar.webp", barcode: "sosis jumbo" , kategori:"snack"},
         { id: 38, nama: "Pentol jumbo goreng", harga: 4000, gambar: "pentol jumbo.webp", barcode: "pentol jumbo" , kategori:"snack"},
-        { id: 39, nama: "Cikua bakar", harga: 4000, gambar: "cikua.webp", barcode: "cikua" , kategori:"snack"},
+        { id: 39, nama: "Cikua bakar", harga: 4000, gambar: "cikua bakar.webp", barcode: "cikua" , kategori:"snack"},
         { id: 40, nama: "Pentol bakar kecil", harga: 1000, gambar: "pentol.webp", barcode: "pentol kecil" , kategori:"snack"},
         { id: 41, nama: "Pentol tahu bakar", harga: 5000, gambar: "pentol tahu.webp", barcode: "pentol tahu" , kategori:"snack"},
       
@@ -372,7 +372,7 @@ document.addEventListener('DOMContentLoaded', () => {
       
         { id: 59, nama: "Sosis jumbo", harga: 3000, gambar: "sosis jumbo.webp", barcode: "sosis jumbo" , kategori:"toping"},
         { id: 60, nama: "Sosis kecil", harga: 3000, gambar: "sosis kecil.webp", barcode: "sosis kecil" , kategori:"toping"},
-        { id: 61, nama: "Cikuwa", harga: 3000, gambar: "cikua.webp", barcode: "cikuwa" , kategori:"toping"},
+        { id: 61, nama: "Cikuwa", harga: 3000, gambar: "cikuwa.webp", barcode: "cikuwa" , kategori:"toping"},
         { id: 62, nama: "Telur utuh", harga: 3000, gambar: "telur utuh.webp", barcode: "telur utuh" , kategori:"toping"},
         { id: 63, nama: "Cumi", harga: 3000, gambar: "cumi.webp", barcode: "cumi" , kategori:"toping"},
         { id: 64, nama: "Scalop", harga: 3000, gambar: "scalop.webp", barcode: "scalop" , kategori:"toping"},
